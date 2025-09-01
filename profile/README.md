@@ -11,6 +11,7 @@ Onsite (MDSSB) and online (MDSSBO) students are in different Master programs and
 
 Another difference is the *mode of teaching*.
 
+
 **For ONSITE students:**  
 You learn week by week in the classroom on campus. However, there is an option for remote participation for late arriving students.  
 All coordinates are on the course website:  
